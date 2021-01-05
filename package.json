@@ -1,7 +1,7 @@
 {
-  "name": "pkg-name",
+  "name": "@anchor-logoot/dtst-js",
   "version": "0.1.0",
-  "description": "pkg-desc",
+  "description": "Differential Ternary Search Tree in TypeScript.",
   "main": "lib/index.js",
   "types": "lib/src/index.d.ts",
   "typings": "lib/src/index.d.ts",
